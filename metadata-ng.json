@@ -1,0 +1,63 @@
+{
+	"name": "Ruby",
+	"services": [],
+	"defaultMemory": 256,
+	"description": "Develop, deploy, and scale Ruby on Rails web apps with ease.",
+	"type": "web",
+	"version": "1.6.7",
+	"smallIcon": "i_ruby_24.png",
+	"icon": "i_ruby_32.png",
+	"largeIcon": "i_ruby_50.png",
+	"featuredIcon": "i_ruby_64.png",
+	"system_tags": ["ibm_community"],
+	"categories": ["runtime"],
+	"metadata": {
+		"termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
+	},
+	"source": {
+		"scmType": "git",
+		"url": ".git",
+		"appPath": "app"
+	},
+	"docURL": "/#runtimes/ruby/index.html",
+	"extra": {
+		"i18n": {
+			"de": {
+				"name": "Ruby",
+				"description": "Ruby on Rails-Web-Apps unkompliziert entwickeln, bereitstellen und skalieren."
+			},
+			"es": {
+				"name": "Ruby",
+				"description": "Desarrolle, despliegue y escale fácilmente apps web Ruby on Rails."
+			},
+			"fr": {
+				"name": "Ruby",
+				"description": "Développez, déployez et mettez à l'échelle des applications Ruby on Rails facilement."
+			},
+			"it": {
+				"name": "Ruby",
+				"description": "Sviluppa, distribuisci e ridimensiona con facilità applicazioni Web Ruby on Rails."
+			},
+			"ja": {
+				"name": "Ruby",
+				"description": "Ruby on Rails Web アプリの開発、デプロイ、および拡張を容易に行います。"
+			},
+			"ko": {
+				"name": "Ruby",
+				"description": "Ruby on Rails 웹 앱을 쉽게 개발, 배치, 스케일링합니다. "
+			},
+			"pt-BR": {
+				"name": "Ruby",
+				"description": "Desenvolva, implemente e escale os apps da web Ruby on Rails com facilidade."
+			},
+			"zh-Hans": {
+				"name": "Ruby",
+				"description": "轻松开发、部署和扩展 Ruby on Rails Web 应用程序。"
+			},
+			"zh-Hant": {
+				"name": "Ruby",
+				"description": "輕鬆地開發、部署及擴充 Ruby on Rails Web 應用程式。"
+			}
+		}
+	}
+}
