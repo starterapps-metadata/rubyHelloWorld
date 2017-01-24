@@ -1,0 +1,5 @@
+---
+applications:
+- name: sample-ruby-helloworld
+  random-route: true
+  memory: 256M
