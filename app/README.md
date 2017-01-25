@@ -4,7 +4,7 @@ This application demonstrates a simple, reusable Ruby web application based on t
 
 The command `rails new <app name>` is used to create the files and folders that make up the structure of a Rails application. They are described in the [Getting Started with Rails][] guide.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/ruby-rails-helloworld)
 
 ## Run the app locally
 
