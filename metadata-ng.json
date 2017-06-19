@@ -4,7 +4,7 @@
 	"defaultMemory": 256,
 	"description": "Develop, deploy, and scale Ruby web apps with ease.",
 	"type": "web",
-	"version": "1.6.16",
+	"version": "1.6.34",
 	"smallIcon": "i_ruby_24.png",
 	"icon": "i_ruby_32.png",
 	"largeIcon": "i_ruby_50.png",
